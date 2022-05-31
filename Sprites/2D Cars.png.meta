@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: 6298e55d8c8455e44b7d5125064923a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3688559087412215049
+    second: png-transparent-eight-cars-illustration-formula-one-car-top-view-of-car-car-color-plastic-bottle_0
+  - first:
+      213: 294056916096970711
+    second: png-transparent-eight-cars-illustration-formula-one-car-top-view-of-car-car-color-plastic-bottle_1
+  - first:
+      213: 2502062512674266456
+    second: png-transparent-eight-cars-illustration-formula-one-car-top-view-of-car-car-color-plastic-bottle_2
+  - first:
+      213: 7119579741665888344
+    second: png-transparent-eight-cars-illustration-formula-one-car-top-view-of-car-car-color-plastic-bottle_3
+  - first:
+      213: 5741575977871581178
+    second: png-transparent-eight-cars-illustration-formula-one-car-top-view-of-car-car-color-plastic-bottle_4
+  - first:
+      213: -2985440393012511779
+    second: png-transparent-eight-cars-illustration-formula-one-car-top-view-of-car-car-color-plastic-bottle_5
+  - first:
+      213: -8906765768663728852
+    second: png-transparent-eight-cars-illustration-formula-one-car-top-view-of-car-car-color-plastic-bottle_6
+  - first:
+      213: 1377193600465710837
+    second: png-transparent-eight-cars-illustration-formula-one-car-top-view-of-car-car-color-plastic-bottle_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-transparent-eight-cars-illustration-formula-one-car-top-view-of-car-car-color-plastic-bottle_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 448
+        width: 157
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.5, y: -146}
+        - {x: 45.5, y: -151}
+        - {x: 32.5, y: -155}
+        - {x: 12.5, y: -158}
+        - {x: -12.5, y: -159}
+        - {x: -22.5, y: -157}
+        - {x: -34.5, y: -154}
+        - {x: -46.5, y: -151}
+        - {x: -54.5, y: -144}
+        - {x: -59.5, y: -137}
+        - {x: -59.5, y: -134}
+        - {x: -60.5, y: -134}
+        - {x: -60.5, y: -109}
+        - {x: -64.5, y: -109}
+        - {x: -64.5, y: -63}
+        - {x: -61.5, y: -63}
+        - {x: -62.5, y: -9}
+        - {x: -63.5, y: -9}
+        - {x: -63.5, y: 43}
+        - {x: -64.5, y: 43}
+        - {x: -64.5, y: 59}
+        - {x: -78.5, y: 56}
+        - {x: -78.5, y: 62}
+        - {x: -64.5, y: 67}
+        - {x: -64.5, y: 69}
+        - {x: -68.5, y: 69}
+        - {x: -68.5, y: 115}
+        - {x: -65.5, y: 115}
+        - {x: -65.5, y: 133}
+        - {x: -62.5, y: 140}
+        - {x: -56.5, y: 146}
+        - {x: -50.5, y: 151}
+        - {x: -43.5, y: 155}
+        - {x: -38.5, y: 158}
+        - {x: -31.5, y: 159}
+        - {x: 32.5, y: 159}
+        - {x: 43.5, y: 156}
+        - {x: 55.5, y: 148}
+        - {x: 63.5, y: 139}
+        - {x: 65.5, y: 133}
+        - {x: 65.5, y: 115}
+        - {x: 68.5, y: 115}
+        - {x: 68.5, y: 69}
+        - {x: 64.5, y: 69}
+        - {x: 64.5, y: 67}
+        - {x: 72.5, y: 66}
+        - {x: 78.5, y: 62}
+        - {x: 78.5, y: 57}
+        - {x: 72.5, y: 57}
+        - {x: 64.5, y: 59}
+        - {x: 64.5, y: 46}
+        - {x: 63.5, y: 46}
+        - {x: 63.5, y: -5}
+        - {x: 62.5, y: -5}
+        - {x: 62.5, y: -40}
+        - {x: 61.5, y: -41}
+        - {x: 61.5, y: -64}
+        - {x: 64.5, y: -64}
+        - {x: 64.5, y: -109}
+        - {x: 60.5, y: -109}
+        - {x: 60.5, y: -126}
+        - {x: 59.5, y: -127}
+        - {x: 59.5, y: -138}
+      - - {x: -68.5, y: 69}
+        - {x: -68.5, y: 69}
+        - {x: -68.5, y: 69}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d7e3a72f4603330800000000000000
+      internalID: 3688559087412215049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-eight-cars-illustration-formula-one-car-top-view-of-car-car-color-plastic-bottle_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 448
+        width: 155
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: -160.5}
+        - {x: 23.5, y: -165.5}
+        - {x: -19.5, y: -166.5}
+        - {x: -36.5, y: -162.5}
+        - {x: -47.5, y: -157.5}
+        - {x: -58.5, y: -147.5}
+        - {x: -59.5, y: -143.5}
+        - {x: -59.5, y: -139.5}
+        - {x: -60.5, y: -139.5}
+        - {x: -60.5, y: -130.5}
+        - {x: -64.5, y: -130.5}
+        - {x: -64.5, y: -83.5}
+        - {x: -61.5, y: -83.5}
+        - {x: -61.5, y: -53.5}
+        - {x: -62.5, y: -53.5}
+        - {x: -62.5, y: -17.5}
+        - {x: -63.5, y: -17.5}
+        - {x: -64.5, y: 51.5}
+        - {x: -71.5, y: 49.5}
+        - {x: -77.5, y: 47.5}
+        - {x: -77.5, y: 53.5}
+        - {x: -72.5, y: 56.5}
+        - {x: -64.5, y: 60.5}
+        - {x: -64.5, y: 64.5}
+        - {x: -68.5, y: 64.5}
+        - {x: -68.5, y: 112.5}
+        - {x: -65.5, y: 112.5}
+        - {x: -65.5, y: 127.5}
+        - {x: -62.5, y: 140.5}
+        - {x: -55.5, y: 150.5}
+        - {x: -44.5, y: 160.5}
+        - {x: -33.5, y: 166.5}
+        - {x: 32.5, y: 166.5}
+        - {x: 42.5, y: 163.5}
+        - {x: 50.5, y: 157.5}
+        - {x: 55.5, y: 152.5}
+        - {x: 62.5, y: 143.5}
+        - {x: 65.5, y: 135.5}
+        - {x: 65.5, y: 127.5}
+        - {x: 65.5, y: 112.5}
+        - {x: 69.5, y: 112.5}
+        - {x: 69.5, y: 64.5}
+        - {x: 63.5, y: 64.5}
+        - {x: 63.5, y: 60.5}
+        - {x: 77.5, y: 54.5}
+        - {x: 77.5, y: 48.5}
+        - {x: 64.5, y: 51.5}
+        - {x: 64.5, y: 11.5}
+        - {x: 63.5, y: 11.5}
+        - {x: 63.5, y: -52.5}
+        - {x: 62.5, y: -52.5}
+        - {x: 62.5, y: -83.5}
+        - {x: 65.5, y: -83.5}
+        - {x: 65.5, y: -130.5}
+        - {x: 60.5, y: -130.5}
+        - {x: 59.5, y: -139}
+        - {x: 58.5, y: -145}
+        - {x: 53.5, y: -152}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfe4bb0533b41400800000000000000
+      internalID: 294056916096970711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-eight-cars-illustration-formula-one-car-top-view-of-car-car-color-plastic-bottle_2
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 448
+        width: 192
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: -168}
+        - {x: 45, y: -170}
+        - {x: 36, y: -171}
+        - {x: 36, y: -187}
+        - {x: 35, y: -187}
+        - {x: 35, y: -188}
+        - {x: 19, y: -188}
+        - {x: 19, y: -189}
+        - {x: 16, y: -189}
+        - {x: 16, y: -190}
+        - {x: 12, y: -190}
+        - {x: 12, y: -191}
+        - {x: 6, y: -191}
+        - {x: 6, y: -192}
+        - {x: -6, y: -192}
+        - {x: -6, y: -191}
+        - {x: -12, y: -191}
+        - {x: -12, y: -190}
+        - {x: -16, y: -190}
+        - {x: -16, y: -189}
+        - {x: -19, y: -189}
+        - {x: -19, y: -188}
+        - {x: -34, y: -188}
+        - {x: -34, y: -187}
+        - {x: -36, y: -187}
+        - {x: -36, y: -178}
+        - {x: -37, y: -178}
+        - {x: -37, y: -171}
+        - {x: -50, y: -167}
+        - {x: -58, y: -164}
+        - {x: -65, y: -160}
+        - {x: -72, y: -153}
+        - {x: -76, y: -145}
+        - {x: -76, y: -141}
+        - {x: -81, y: -141}
+        - {x: -81, y: -79}
+        - {x: -77, y: -79}
+        - {x: -77, y: -70}
+        - {x: -78, y: -70}
+        - {x: -78, y: -35}
+        - {x: -79, y: -35}
+        - {x: -79, y: 17}
+        - {x: -80, y: 17}
+        - {x: -80, y: 51}
+        - {x: -81, y: 51}
+        - {x: -81, y: 62}
+        - {x: -87, y: 61}
+        - {x: -96, y: 58}
+        - {x: -96, y: 65}
+        - {x: -90, y: 68}
+        - {x: -81, y: 70}
+        - {x: -81, y: 72}
+        - {x: -87, y: 72}
+        - {x: -87, y: 139}
+        - {x: -83, y: 139}
+        - {x: -83, y: 152}
+        - {x: -80, y: 160}
+        - {x: -70, y: 174}
+        - {x: -58, y: 185}
+        - {x: -45, y: 192}
+        - {x: 46, y: 192}
+        - {x: 48, y: 191}
+        - {x: 50, y: 190}
+        - {x: 50, y: 190}
+        - {x: 56, y: 187}
+        - {x: 59, y: 185}
+        - {x: 68, y: 176}
+        - {x: 73, y: 171}
+        - {x: 79, y: 160}
+        - {x: 79, y: 160}
+        - {x: 81, y: 157}
+        - {x: 82, y: 155}
+        - {x: 82, y: 139}
+        - {x: 86, y: 139}
+        - {x: 86, y: 72}
+        - {x: 81, y: 72}
+        - {x: 81, y: 70}
+        - {x: 90, y: 68}
+        - {x: 96, y: 64}
+        - {x: 96, y: 58}
+        - {x: 81, y: 62}
+        - {x: 80, y: 22}
+        - {x: 79, y: 22}
+        - {x: 79, y: -27}
+        - {x: 78, y: -27}
+        - {x: 78, y: -79}
+        - {x: 81, y: -79}
+        - {x: 81, y: -141}
+        - {x: 76, y: -141}
+        - {x: 75, y: -148}
+        - {x: 72, y: -153}
+        - {x: 68, y: -158}
+        - {x: 61, y: -163}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d55c9499c19b220800000000000000
+      internalID: 2502062512674266456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-eight-cars-illustration-formula-one-car-top-view-of-car-car-color-plastic-bottle_3
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 448
+        width: 189
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.5, y: -184}
+        - {x: 33.5, y: -189}
+        - {x: 19.5, y: -192}
+        - {x: -17.5, y: -192}
+        - {x: -26.5, y: -190}
+        - {x: -46.5, y: -186}
+        - {x: -54.5, y: -183}
+        - {x: -62.5, y: -179}
+        - {x: -66.5, y: -176}
+        - {x: -69.5, y: -173}
+        - {x: -72.5, y: -169}
+        - {x: -73.5, y: -167}
+        - {x: -74.5, y: -165}
+        - {x: -74.5, y: -153}
+        - {x: -79.5, y: -153}
+        - {x: -79.5, y: -97}
+        - {x: -76.5, y: -97}
+        - {x: -76.5, y: -53}
+        - {x: -77.5, y: -53}
+        - {x: -77.5, y: 12}
+        - {x: -78.5, y: 12}
+        - {x: -78.5, y: 68}
+        - {x: -94.5, y: 65}
+        - {x: -94.5, y: 70}
+        - {x: -89.5, y: 74}
+        - {x: -79.5, y: 77}
+        - {x: -79.5, y: 80}
+        - {x: -84.5, y: 80}
+        - {x: -84.5, y: 140}
+        - {x: -80.5, y: 140}
+        - {x: -80.5, y: 153}
+        - {x: -79.5, y: 157}
+        - {x: -73.5, y: 170}
+        - {x: -70.5, y: 174}
+        - {x: -66.5, y: 179}
+        - {x: -59.5, y: 186}
+        - {x: -55.5, y: 188}
+        - {x: -51.5, y: 190}
+        - {x: -48.5, y: 192}
+        - {x: 49.5, y: 192}
+        - {x: 52.5, y: 191}
+        - {x: 55.5, y: 190}
+        - {x: 61.5, y: 186}
+        - {x: 68.5, y: 179}
+        - {x: 73.5, y: 172}
+        - {x: 78.5, y: 165}
+        - {x: 81.5, y: 159}
+        - {x: 81.5, y: 156}
+        - {x: 81.5, y: 141}
+        - {x: 85.5, y: 141}
+        - {x: 85.5, y: 80}
+        - {x: 80.5, y: 80}
+        - {x: 80.5, y: 76}
+        - {x: 89.5, y: 74}
+        - {x: 94.5, y: 70}
+        - {x: 94.5, y: 66}
+        - {x: 87.5, y: 66}
+        - {x: 80.5, y: 68}
+        - {x: 80.5, y: 61}
+        - {x: 79.5, y: 61}
+        - {x: 79.5, y: 1}
+        - {x: 78.5, y: 1}
+        - {x: 78.5, y: -46}
+        - {x: 77.5, y: -46}
+        - {x: 77.5, y: -98}
+        - {x: 80.5, y: -98}
+        - {x: 80.5, y: -154}
+        - {x: 74.5, y: -154}
+        - {x: 75.5, y: -164}
+        - {x: 70.5, y: -172}
+        - {x: 64.5, y: -178}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858001ccd04ddc260800000000000000
+      internalID: 7119579741665888344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-eight-cars-illustration-formula-one-car-top-view-of-car-car-color-plastic-bottle_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 96
+        width: 146
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: -142.5}
+        - {x: 29, y: -145.5}
+        - {x: 17, y: -148.5}
+        - {x: -16, y: -148.5}
+        - {x: -34, y: -144.5}
+        - {x: -45, y: -138.5}
+        - {x: -53, y: -131.5}
+        - {x: -56, y: -125.5}
+        - {x: -56, y: -115.5}
+        - {x: -60, y: -115.5}
+        - {x: -60, y: -71.5}
+        - {x: -57, y: -71.5}
+        - {x: -57, y: -22.5}
+        - {x: -58, y: -22.5}
+        - {x: -58, y: 27.5}
+        - {x: -59, y: 27.5}
+        - {x: -59, y: 45.5}
+        - {x: -63, y: 45.5}
+        - {x: -66, y: 44.5}
+        - {x: -71.5, y: 43.5}
+        - {x: -73, y: 45.5}
+        - {x: -73, y: 49.5}
+        - {x: -66, y: 53.5}
+        - {x: -63, y: 54.5}
+        - {x: -59, y: 54.5}
+        - {x: -59, y: 55.5}
+        - {x: -63, y: 55.5}
+        - {x: -63, y: 99.5}
+        - {x: -61, y: 99.5}
+        - {x: -61, y: 123.5}
+        - {x: -58, y: 129.5}
+        - {x: -48, y: 139.5}
+        - {x: -33, y: 147.5}
+        - {x: -28, y: 148.5}
+        - {x: 29, y: 148.5}
+        - {x: 40, y: 144.5}
+        - {x: 47, y: 139.5}
+        - {x: 56, y: 132.5}
+        - {x: 61, y: 123.5}
+        - {x: 61, y: 99.5}
+        - {x: 63, y: 99.5}
+        - {x: 63, y: 54.5}
+        - {x: 73, y: 48.5}
+        - {x: 73, y: 44.5}
+        - {x: 68, y: 43.5}
+        - {x: 59, y: 45.5}
+        - {x: 59, y: 21.5}
+        - {x: 58, y: 21.5}
+        - {x: 58, y: -31.5}
+        - {x: 57, y: -31.5}
+        - {x: 57, y: -71.5}
+        - {x: 60, y: -71.5}
+        - {x: 60, y: -115.5}
+        - {x: 56, y: -115.5}
+        - {x: 55, y: -126.5}
+        - {x: 53, y: -130.5}
+        - {x: 46, y: -138.5}
+      - - {x: -66, y: 53.5}
+        - {x: -66, y: 53.5}
+        - {x: -66, y: 53.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff93f38eec2eaf40800000000000000
+      internalID: 5741575977871581178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-eight-cars-illustration-formula-one-car-top-view-of-car-car-color-plastic-bottle_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 49
+        width: 154
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: -165}
+        - {x: 56, y: -167}
+        - {x: 55, y: -167}
+        - {x: 55, y: -170}
+        - {x: 54, y: -170}
+        - {x: 54, y: -171}
+        - {x: -53, y: -171}
+        - {x: -53, y: -170}
+        - {x: -55, y: -170}
+        - {x: -55, y: -168}
+        - {x: -56, y: -168}
+        - {x: -56, y: -166}
+        - {x: -57, y: -166}
+        - {x: -57, y: -165}
+        - {x: -65, y: -165}
+        - {x: -70, y: -160}
+        - {x: -70, y: -134}
+        - {x: -73, y: -134}
+        - {x: -73, y: -80}
+        - {x: -69, y: -80}
+        - {x: -69, y: -47}
+        - {x: -68, y: -47}
+        - {x: -68, y: 10}
+        - {x: -62, y: 16}
+        - {x: -62, y: 63}
+        - {x: -63, y: 63}
+        - {x: -63, y: 75}
+        - {x: -69, y: 75}
+        - {x: -69, y: 74}
+        - {x: -77, y: 74}
+        - {x: -77, y: 80}
+        - {x: -72, y: 83}
+        - {x: -67, y: 83}
+        - {x: -67, y: 127}
+        - {x: -64, y: 127}
+        - {x: -64, y: 149}
+        - {x: -59, y: 157}
+        - {x: -52, y: 163}
+        - {x: -44, y: 168}
+        - {x: -33, y: 170}
+        - {x: -23, y: 172}
+        - {x: 18, y: 172}
+        - {x: 37, y: 170}
+        - {x: 50, y: 163}
+        - {x: 58, y: 158}
+        - {x: 64, y: 150}
+        - {x: 65, y: 142}
+        - {x: 65, y: 127}
+        - {x: 67, y: 127}
+        - {x: 67, y: 84}
+        - {x: 75, y: 82}
+        - {x: 77, y: 79}
+        - {x: 77, y: 73}
+        - {x: 74, y: 73}
+        - {x: 74, y: 74}
+        - {x: 68, y: 74}
+        - {x: 68, y: 75}
+        - {x: 63, y: 75}
+        - {x: 63, y: 43}
+        - {x: 62, y: 43}
+        - {x: 62, y: 15}
+        - {x: 68, y: 11}
+        - {x: 68, y: -27}
+        - {x: 69, y: -27}
+        - {x: 69, y: -80}
+        - {x: 72, y: -80}
+        - {x: 72, y: -97}
+        - {x: 73, y: -97}
+        - {x: 73, y: -132}
+        - {x: 71, y: -132}
+        - {x: 71, y: -157}
+        - {x: 70, y: -162}
+        - {x: 66, y: -165}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbf264b7c59196d0800000000000000
+      internalID: -2985440393012511779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-eight-cars-illustration-formula-one-car-top-view-of-car-car-color-plastic-bottle_6
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 168
+        width: 144
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: -109}
+        - {x: 26, y: -112}
+        - {x: 15, y: -113}
+        - {x: -14, y: -113}
+        - {x: -22, y: -112}
+        - {x: -35, y: -109}
+        - {x: -44, y: -107}
+        - {x: -58, y: -99}
+        - {x: -58, y: -96}
+        - {x: -63, y: -96}
+        - {x: -63, y: -52}
+        - {x: -58, y: -52}
+        - {x: -58, y: -32}
+        - {x: -59, y: -32}
+        - {x: -59, y: 16}
+        - {x: -60, y: 16}
+        - {x: -60, y: 22}
+        - {x: -63, y: 22}
+        - {x: -63, y: 21}
+        - {x: -68, y: 21}
+        - {x: -68, y: 20}
+        - {x: -72, y: 20}
+        - {x: -72, y: 26}
+        - {x: -70, y: 26}
+        - {x: -70, y: 28}
+        - {x: -67, y: 28}
+        - {x: -67, y: 29}
+        - {x: -60, y: 29}
+        - {x: -60, y: 30}
+        - {x: -63, y: 30}
+        - {x: -63, y: 70}
+        - {x: -60, y: 70}
+        - {x: -60, y: 85}
+        - {x: -54, y: 97}
+        - {x: -48, y: 104}
+        - {x: -42, y: 107}
+        - {x: -25, y: 112}
+        - {x: -19, y: 113}
+        - {x: 19, y: 113}
+        - {x: 28, y: 111}
+        - {x: 48, y: 104}
+        - {x: 52, y: 99}
+        - {x: 55, y: 93}
+        - {x: 57, y: 89}
+        - {x: 59, y: 85}
+        - {x: 59, y: 70}
+        - {x: 62, y: 70}
+        - {x: 62, y: 30}
+        - {x: 60, y: 30}
+        - {x: 60, y: 29}
+        - {x: 62, y: 29}
+        - {x: 62, y: 28}
+        - {x: 67, y: 28}
+        - {x: 69, y: 26}
+        - {x: 71, y: 26}
+        - {x: 71, y: 24}
+        - {x: 72, y: 24}
+        - {x: 72, y: 20}
+        - {x: 66, y: 20}
+        - {x: 64, y: 22}
+        - {x: 59, y: 22}
+        - {x: 59, y: 2}
+        - {x: 58, y: 2}
+        - {x: 58, y: -14}
+        - {x: 58, y: -23}
+        - {x: 59, y: -23}
+        - {x: 59, y: -43}
+        - {x: 58, y: -43}
+        - {x: 58, y: -52}
+        - {x: 63, y: -54}
+        - {x: 63, y: -96}
+        - {x: 58, y: -96}
+        - {x: 57, y: -100}
+        - {x: 52, y: -102}
+        - {x: 47, y: -104}
+      - - {x: 34, y: -113}
+        - {x: 34, y: -112}
+        - {x: 35, y: -112}
+        - {x: 35, y: -113}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d703539bfc46480800000000000000
+      internalID: -8906765768663728852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-eight-cars-illustration-formula-one-car-top-view-of-car-car-color-plastic-bottle_7
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 75
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: -155}
+        - {x: 29.5, y: -157}
+        - {x: 19.5, y: -160}
+        - {x: -22.5, y: -160}
+        - {x: -34.5, y: -156}
+        - {x: -41.5, y: -154}
+        - {x: -53.5, y: -149}
+        - {x: -61.5, y: -141}
+        - {x: -65.5, y: -133}
+        - {x: -65.5, y: -86}
+        - {x: -61.5, y: -86}
+        - {x: -61.5, y: -70}
+        - {x: -60.5, y: -70}
+        - {x: -60.5, y: -58}
+        - {x: -61.5, y: -58}
+        - {x: -61.5, y: -33}
+        - {x: -62.5, y: -33}
+        - {x: -62.5, y: -25}
+        - {x: -60.5, y: -25}
+        - {x: -60.5, y: -17}
+        - {x: -61.5, y: -17}
+        - {x: -61.5, y: -15}
+        - {x: -62.5, y: -15}
+        - {x: -62.5, y: -6}
+        - {x: -63.5, y: -6}
+        - {x: -63.5, y: 29}
+        - {x: -64.5, y: 29}
+        - {x: -64.5, y: 37}
+        - {x: -68.5, y: 37}
+        - {x: -75.5, y: 34}
+        - {x: -82.5, y: 33}
+        - {x: -82.5, y: 40}
+        - {x: -75.5, y: 45}
+        - {x: -64.5, y: 47}
+        - {x: -64.5, y: 56}
+        - {x: -69.5, y: 56}
+        - {x: -69.5, y: 106}
+        - {x: -67.5, y: 106}
+        - {x: -67.5, y: 114}
+        - {x: -68.5, y: 114}
+        - {x: -68.5, y: 129}
+        - {x: -65.5, y: 136}
+        - {x: -61.5, y: 140}
+        - {x: -54.5, y: 148}
+        - {x: -47.5, y: 154}
+        - {x: -36.5, y: 160}
+        - {x: 34.5, y: 160}
+        - {x: 45.5, y: 156}
+        - {x: 55.5, y: 148}
+        - {x: 63.5, y: 138}
+        - {x: 66.5, y: 131}
+        - {x: 68.5, y: 124}
+        - {x: 68.5, y: 118}
+        - {x: 67.5, y: 118}
+        - {x: 67.5, y: 105}
+        - {x: 68.5, y: 105}
+        - {x: 68.5, y: 94}
+        - {x: 69.5, y: 94}
+        - {x: 69.5, y: 69}
+        - {x: 68.5, y: 69}
+        - {x: 68.5, y: 56}
+        - {x: 64.5, y: 56}
+        - {x: 64.5, y: 47}
+        - {x: 69.5, y: 45}
+        - {x: 75.5, y: 44}
+        - {x: 80.5, y: 43}
+        - {x: 82.5, y: 40}
+        - {x: 82.5, y: 34}
+        - {x: 74.5, y: 34}
+        - {x: 67.5, y: 36}
+        - {x: 63.5, y: 37}
+        - {x: 63.5, y: 10}
+        - {x: 62.5, y: 10}
+        - {x: 62.5, y: -15}
+        - {x: 60.5, y: -15}
+        - {x: 60.5, y: -25}
+        - {x: 61.5, y: -25}
+        - {x: 61.5, y: -42}
+        - {x: 60.5, y: -42}
+        - {x: 60.5, y: -85}
+        - {x: 61.5, y: -85}
+        - {x: 61.5, y: -119}
+        - {x: 62.5, y: -119}
+        - {x: 62.5, y: -134}
+        - {x: 61.5, y: -140}
+        - {x: 58.5, y: -144}
+        - {x: 48.5, y: -151}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe23be6846cc1310800000000000000
+      internalID: 1377193600465710837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

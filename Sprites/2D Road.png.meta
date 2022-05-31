@@ -1,0 +1,2146 @@
+fileFormatVersion: 2
+guid: cdebda8b3bc5d3a45bc2f8f187a2a432
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4482313525656837881
+    second: 2D Road_0
+  - first:
+      213: 8642516993560397175
+    second: 2D Road_1
+  - first:
+      213: 2787653600182372070
+    second: 2D Road_2
+  - first:
+      213: 9161036691240820623
+    second: 2D Road_3
+  - first:
+      213: -7342294450026661439
+    second: 2D Road_4
+  - first:
+      213: -7968608816453577834
+    second: 2D Road_5
+  - first:
+      213: -8402944218696921301
+    second: 2D Road_6
+  - first:
+      213: 3875409173877332988
+    second: 2D Road_7
+  - first:
+      213: -8435949907601818285
+    second: 2D Road_8
+  - first:
+      213: 3751875465812628819
+    second: 2D Road_9
+  - first:
+      213: -7941785965178655886
+    second: 2D Road_10
+  - first:
+      213: 6075775156688927901
+    second: 2D Road_11
+  - first:
+      213: -8126088484934602809
+    second: 2D Road_12
+  - first:
+      213: 6767103967718593178
+    second: 2D Road_13
+  - first:
+      213: 5797931536992731715
+    second: 2D Road_14
+  - first:
+      213: -6912165603683227
+    second: 2D Road_15
+  - first:
+      213: 2857947352176501186
+    second: 2D Road_16
+  - first:
+      213: 4265183041630051547
+    second: 2D Road_17
+  - first:
+      213: -5974829105556261781
+    second: 2D Road_18
+  - first:
+      213: -6940823235803520050
+    second: 2D Road_19
+  - first:
+      213: -5212541242300434457
+    second: 2D Road_20
+  - first:
+      213: -4578821657660639670
+    second: 2D Road_21
+  - first:
+      213: -1107106035282088679
+    second: 2D Road_22
+  - first:
+      213: -7553663495105946503
+    second: 2D Road_23
+  - first:
+      213: -341534762009211129
+    second: 2D Road_24
+  - first:
+      213: -8324707368736932723
+    second: 2D Road_25
+  - first:
+      213: 960510955851012659
+    second: 2D Road_26
+  - first:
+      213: 2944215515070151552
+    second: 2D Road_27
+  - first:
+      213: -5357099001586749876
+    second: 2D Road_28
+  - first:
+      213: 8714818269985350049
+    second: 2D Road_29
+  - first:
+      213: -1756953581311794276
+    second: 2D Road_30
+  - first:
+      213: 2060369291241641697
+    second: 2D Road_31
+  - first:
+      213: -6400671743552294063
+    second: 2D Road_32
+  - first:
+      213: -1344453096192808770
+    second: 2D Road_33
+  - first:
+      213: -62161474704287206
+    second: 2D Road_34
+  - first:
+      213: 4810023654402256333
+    second: 2D Road_35
+  - first:
+      213: -7132661200545293163
+    second: 2D Road_36
+  - first:
+      213: 5205631011203383232
+    second: 2D Road_37
+  - first:
+      213: -815296154811274740
+    second: 2D Road_38
+  - first:
+      213: 6779849641445491799
+    second: 2D Road_39
+  - first:
+      213: -8967432620027479824
+    second: 2D Road_40
+  - first:
+      213: -1101940612433927231
+    second: 2D Road_41
+  - first:
+      213: 6226325634021028590
+    second: 2D Road_42
+  - first:
+      213: 269609104993590949
+    second: 2D Road_43
+  - first:
+      213: 8350436206118115950
+    second: 2D Road_44
+  - first:
+      213: -2974277828615329321
+    second: 2D Road_45
+  - first:
+      213: -1317111879968894498
+    second: 2D Road_46
+  - first:
+      213: 837536513704563494
+    second: 2D Road_47
+  - first:
+      213: 8707472285046920152
+    second: 2D Road_48
+  - first:
+      213: -6517818420801697075
+    second: 2D Road_49
+  - first:
+      213: -5517436954002830554
+    second: 2D Road_50
+  - first:
+      213: -4760488769202501634
+    second: 2D Road_51
+  - first:
+      213: 5756573857391235058
+    second: 2D Road_52
+  - first:
+      213: -795827669634216870
+    second: 2D Road_53
+  - first:
+      213: 6304916130815014446
+    second: 2D Road_54
+  - first:
+      213: -1719419788243346649
+    second: 2D Road_55
+  - first:
+      213: -2425631847517681783
+    second: 2D Road_56
+  - first:
+      213: 7026628834622002550
+    second: 2D Road_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2D Road_0
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 894
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: -60}
+        - {x: -48, y: -48}
+        - {x: -60, y: -48}
+        - {x: -60, y: 48}
+        - {x: -48, y: 48}
+        - {x: -48, y: 60}
+        - {x: 48, y: 60}
+        - {x: 48, y: 48}
+        - {x: 60, y: 48}
+        - {x: 60, y: -48}
+        - {x: 48, y: -48}
+        - {x: 48, y: -60}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701ab43c89f9bc1c0800000000000000
+      internalID: -4482313525656837881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 894
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: -60}
+        - {x: -48, y: -48}
+        - {x: -60, y: -48}
+        - {x: -60, y: 48}
+        - {x: -48, y: 48}
+        - {x: -48, y: 60}
+        - {x: 48, y: 60}
+        - {x: 48, y: 48}
+        - {x: 60, y: 48}
+        - {x: 60, y: -48}
+        - {x: 48, y: -48}
+        - {x: 48, y: -60}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775c1766a6360f770800000000000000
+      internalID: 8642516993560397175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_2
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 978
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e685b30e2cbfa620800000000000000
+      internalID: 2787653600182372070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 933
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f9abb555a822f70800000000000000
+      internalID: 9161036691240820623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_4
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 939
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9b6dd491eea1a90800000000000000
+      internalID: -7342294450026661439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_5
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 918
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -48}
+        - {x: 24, y: -42}
+        - {x: 15, y: -32}
+        - {x: 11, y: -29}
+        - {x: 7, y: -27}
+        - {x: -48, y: -27}
+        - {x: -48, y: 27}
+        - {x: 4, y: 27}
+        - {x: 9, y: 28}
+        - {x: 11, y: 29}
+        - {x: 19, y: 37}
+        - {x: 27, y: 45}
+        - {x: 31, y: 48}
+        - {x: 48, y: 48}
+        - {x: 48, y: -48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6931d3d3080d96190800000000000000
+      internalID: -7968608816453577834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_6
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 918
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -27}
+        - {x: -11, y: -29}
+        - {x: -13, y: -31}
+        - {x: -16, y: -34}
+        - {x: -20, y: -38}
+        - {x: -24, y: -43}
+        - {x: -26, y: -45}
+        - {x: -29, y: -46}
+        - {x: -33, y: -48}
+        - {x: -48, y: -48}
+        - {x: -48, y: 48}
+        - {x: -32, y: 48}
+        - {x: -28, y: 46}
+        - {x: -25, y: 44}
+        - {x: -22, y: 41}
+        - {x: -18, y: 36}
+        - {x: -13, y: 31}
+        - {x: -9, y: 28}
+        - {x: -6, y: 27}
+        - {x: 48, y: 27}
+        - {x: 48, y: -27}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fc529f0ceb26b80800000000000000
+      internalID: -8402944218696921301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_7
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 816
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb9f306c1838c530800000000000000
+      internalID: 3875409173877332988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_8
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 816
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: -48}
+        - {x: -48, y: -31}
+        - {x: -45, y: -27}
+        - {x: -40, y: -22}
+        - {x: -35, y: -17}
+        - {x: -30, y: -12}
+        - {x: -27, y: -7}
+        - {x: -27, y: 48}
+        - {x: 27, y: 48}
+        - {x: 27, y: -7}
+        - {x: 29, y: -11}
+        - {x: 30, y: -12}
+        - {x: 32, y: -14}
+        - {x: 33, y: -15}
+        - {x: 35, y: -17}
+        - {x: 37, y: -19}
+        - {x: 40, y: -22}
+        - {x: 44, y: -26}
+        - {x: 46, y: -29}
+        - {x: 48, y: -31}
+        - {x: 48, y: -48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d776e214c7dea80800000000000000
+      internalID: -8435949907601818285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_9
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 816
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -48}
+        - {x: -27, y: 6}
+        - {x: -28, y: 9}
+        - {x: -30, y: 12}
+        - {x: -33, y: 15}
+        - {x: -36, y: 18}
+        - {x: -38, y: 20}
+        - {x: -42, y: 23}
+        - {x: -45, y: 27}
+        - {x: -48, y: 31}
+        - {x: -48, y: 48}
+        - {x: 48, y: 48}
+        - {x: 48, y: 31}
+        - {x: 46, y: 29}
+        - {x: 44, y: 26}
+        - {x: 42, y: 24}
+        - {x: 40, y: 22}
+        - {x: 36, y: 18}
+        - {x: 34, y: 16}
+        - {x: 31, y: 13}
+        - {x: 29, y: 11}
+        - {x: 27, y: 7}
+        - {x: 27, y: -48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355d34d9bd6511430800000000000000
+      internalID: 3751875465812628819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 780
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27be757fdbb19c190800000000000000
+      internalID: -7941785965178655886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 678
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c369d605d715450800000000000000
+      internalID: 6075775156688927901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfa41aa3955a3f80800000000000000
+      internalID: -8126088484934602809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 474
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92d00a743599ed50800000000000000
+      internalID: 6767103967718593178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3428c7e9304667050800000000000000
+      internalID: 5797931536992731715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 474
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56450980c6177eff0800000000000000
+      internalID: -6912165603683227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1af3989f779a720800000000000000
+      internalID: 2857947352176501186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 474
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc1162e069f03b30800000000000000
+      internalID: 4265183041630051547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_18
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 780
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6477a1a594251da0800000000000000
+      internalID: -5974829105556261781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 678
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec367258a0e3daf90800000000000000
+      internalID: -6940823235803520050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 780
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7fb9b7b5559a7b0800000000000000
+      internalID: -5212541242300434457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 678
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46b54546f1c470c0800000000000000
+      internalID: -4578821657660639670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_22
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 780
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91de1563de4c2a0f0800000000000000
+      internalID: -1107106035282088679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_23
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 780
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cdf5d721ffb2790800000000000000
+      internalID: -7553663495105946503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_24
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 678
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f4ef781ff924bf0800000000000000
+      internalID: -341534762009211129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_25
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 678
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cbb5b11c2b87c80800000000000000
+      internalID: -8324707368736932723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_26
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ade5610ab645d00800000000000000
+      internalID: 960510955851012659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_27
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b33fd6964fbd820800000000000000
+      internalID: 2944215515070151552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_28
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 474
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e62d757d2c7a5b0800000000000000
+      internalID: -5357099001586749876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_29
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 474
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1af802b0141f870800000000000000
+      internalID: 8714818269985350049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_30
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 542
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: -91.5}
+        - {x: 30, y: -94.5}
+        - {x: 25, y: -96.5}
+        - {x: 7, y: -101.5}
+        - {x: -11, y: -104.5}
+        - {x: -44, y: -104.5}
+        - {x: -53, y: -102.5}
+        - {x: -62, y: -101.5}
+        - {x: -67, y: -101.5}
+        - {x: -69, y: -80.5}
+        - {x: -71, y: -69.5}
+        - {x: -72, y: -59.5}
+        - {x: -74, y: -45.5}
+        - {x: -60, y: -43.5}
+        - {x: -49, y: -41.5}
+        - {x: -38, y: -39.5}
+        - {x: -35, y: -52.5}
+        - {x: -31, y: -68.5}
+        - {x: -30, y: -70.5}
+        - {x: -25, y: -73.5}
+        - {x: -7, y: -73.5}
+        - {x: -1, y: -71.5}
+        - {x: 3, y: -69.5}
+        - {x: 5, y: -67.5}
+        - {x: 7, y: -66.5}
+        - {x: 10, y: -63.5}
+        - {x: 13, y: -58.5}
+        - {x: 17, y: -48.5}
+        - {x: 17, y: -34.5}
+        - {x: 14, y: -25.5}
+        - {x: 12, y: -21.5}
+        - {x: 10, y: -19.5}
+        - {x: 5, y: -14.5}
+        - {x: -2, y: -10.5}
+        - {x: -7, y: -8.5}
+        - {x: -14, y: -6.5}
+        - {x: -60, y: -6.5}
+        - {x: -67, y: 0.5}
+        - {x: -65, y: 21.5}
+        - {x: -56, y: 91.5}
+        - {x: -55, y: 104.5}
+        - {x: 70, y: 104.5}
+        - {x: 68, y: 69.5}
+        - {x: 68, y: 61.5}
+        - {x: 29, y: 62.5}
+        - {x: -20, y: 62.5}
+        - {x: -24, y: 40.5}
+        - {x: -24, y: 35.5}
+        - {x: 6, y: 35.5}
+        - {x: 16, y: 33.5}
+        - {x: 20, y: 32.5}
+        - {x: 25, y: 31.5}
+        - {x: 32, y: 29.5}
+        - {x: 39, y: 26.5}
+        - {x: 43, y: 24.5}
+        - {x: 49, y: 20.5}
+        - {x: 52, y: 18.5}
+        - {x: 54, y: 16.5}
+        - {x: 59, y: 11.5}
+        - {x: 64, y: 5.5}
+        - {x: 69, y: -3.5}
+        - {x: 74, y: -18.5}
+        - {x: 74, y: -37.5}
+        - {x: 72, y: -42.5}
+        - {x: 71, y: -48.5}
+        - {x: 70, y: -52.5}
+        - {x: 66, y: -62.5}
+        - {x: 61, y: -70.5}
+        - {x: 50, y: -83.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c936f0bc60c0e97e0800000000000000
+      internalID: -1756953581311794276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_31
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 612
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6d49e34f6e79c10800000000000000
+      internalID: 2060369291241641697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_32
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 612
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1537fa126fe3c27a0800000000000000
+      internalID: -6400671743552294063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_33
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 498
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8e040480b875de0800000000000000
+      internalID: -1344453096192808770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_34
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 379
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a5985d778232ff0800000000000000
+      internalID: -62161474704287206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_35
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 378
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd6fd17703a0c240800000000000000
+      internalID: 4810023654402256333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_36
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 264
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c5946bd62b30d90800000000000000
+      internalID: -7132661200545293163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_37
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 150
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cff886f2dd1e3840800000000000000
+      internalID: 5205631011203383232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_38
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 150
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a6bb1877c7fa4f0800000000000000
+      internalID: -815296154811274740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_39
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 486
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: -60}
+        - {x: -48, y: -56}
+        - {x: -49, y: -54}
+        - {x: -50, y: -52}
+        - {x: -52, y: -50}
+        - {x: -54, y: -49}
+        - {x: -56, y: -48}
+        - {x: -60, y: -48}
+        - {x: -60, y: 48}
+        - {x: -53, y: 48}
+        - {x: -53, y: 47}
+        - {x: -47, y: 47}
+        - {x: -47, y: 53}
+        - {x: -48, y: 53}
+        - {x: -48, y: 60}
+        - {x: 48, y: 60}
+        - {x: 48, y: 56}
+        - {x: 49, y: 54}
+        - {x: 51, y: 51}
+        - {x: 54, y: 49}
+        - {x: 56, y: 48}
+        - {x: 60, y: 48}
+        - {x: 60, y: -48}
+        - {x: 53, y: -48}
+        - {x: 53, y: -47}
+        - {x: 47, y: -47}
+        - {x: 47, y: -53}
+        - {x: 48, y: -53}
+        - {x: 48, y: -60}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7540be4e35dd61e50800000000000000
+      internalID: 6779849641445491799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_40
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 252
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: -60}
+        - {x: -48, y: -53}
+        - {x: -47, y: -53}
+        - {x: -47, y: -47}
+        - {x: -53, y: -47}
+        - {x: -53, y: -48}
+        - {x: -60, y: -48}
+        - {x: -60, y: 48}
+        - {x: -56, y: 48}
+        - {x: -52, y: 50}
+        - {x: -51, y: 51}
+        - {x: -50, y: 52}
+        - {x: -48, y: 56}
+        - {x: -48, y: 60}
+        - {x: 48, y: 60}
+        - {x: 48, y: 53}
+        - {x: 47, y: 53}
+        - {x: 47, y: 47}
+        - {x: 53, y: 47}
+        - {x: 53, y: 48}
+        - {x: 60, y: 48}
+        - {x: 60, y: -48}
+        - {x: 56, y: -48}
+        - {x: 52, y: -50}
+        - {x: 50, y: -52}
+        - {x: 48, y: -56}
+        - {x: 48, y: -60}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8f2082b874d8380800000000000000
+      internalID: -8967432620027479824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_41
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 300
+        width: 96
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3ac40f9de15b0f0800000000000000
+      internalID: -1101940612433927231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_42
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 144
+        width: 144
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee27bb7fc2a586650800000000000000
+      internalID: 6226325634021028590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_43
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 360
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -54}
+        - {x: -54, y: -23}
+        - {x: -52, y: -13}
+        - {x: -48, y: 1}
+        - {x: -45, y: 8}
+        - {x: -42, y: 14}
+        - {x: -39, y: 19}
+        - {x: -35, y: 24}
+        - {x: -31, y: 29}
+        - {x: -25, y: 34}
+        - {x: -20, y: 38}
+        - {x: -15, y: 41}
+        - {x: -10, y: 44}
+        - {x: -5, y: 46}
+        - {x: 0, y: 48}
+        - {x: 6, y: 50}
+        - {x: 14, y: 52}
+        - {x: 23, y: 54}
+        - {x: 54, y: 54}
+        - {x: 54, y: -42}
+        - {x: 50, y: -42}
+        - {x: 46, y: -44}
+        - {x: 45, y: -45}
+        - {x: 44, y: -46}
+        - {x: 42, y: -50}
+        - {x: 42, y: -54}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae9a537d08ddb300800000000000000
+      internalID: 269609104993590949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_44
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 360
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -54}
+        - {x: -43, y: -48}
+        - {x: -44, y: -46}
+        - {x: -46, y: -44}
+        - {x: -50, y: -42}
+        - {x: -54, y: -42}
+        - {x: -54, y: 54}
+        - {x: -24, y: 54}
+        - {x: -13, y: 52}
+        - {x: -2, y: 49}
+        - {x: 5, y: 46}
+        - {x: 11, y: 43}
+        - {x: 20, y: 38}
+        - {x: 28, y: 31}
+        - {x: 33, y: 26}
+        - {x: 37, y: 21}
+        - {x: 41, y: 16}
+        - {x: 45, y: 7}
+        - {x: 47, y: 4}
+        - {x: 48, y: 0}
+        - {x: 51, y: -8}
+        - {x: 52, y: -15}
+        - {x: 54, y: -23}
+        - {x: 54, y: -54}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a1b39ac75b2e370800000000000000
+      internalID: 8350436206118115950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_45
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 246
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: -54}
+        - {x: 10, y: -51}
+        - {x: -3, y: -47}
+        - {x: -15, y: -41}
+        - {x: -22, y: -36}
+        - {x: -26, y: -33}
+        - {x: -30, y: -29}
+        - {x: -35, y: -24}
+        - {x: -39, y: -18}
+        - {x: -44, y: -10}
+        - {x: -47, y: -3}
+        - {x: -51, y: 8}
+        - {x: -53, y: 21}
+        - {x: -54, y: 27}
+        - {x: -54, y: 54}
+        - {x: 42, y: 54}
+        - {x: 42, y: 50}
+        - {x: 43, y: 48}
+        - {x: 44, y: 46}
+        - {x: 45, y: 45}
+        - {x: 46, y: 44}
+        - {x: 50, y: 42}
+        - {x: 54, y: 42}
+        - {x: 54, y: -54}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d92012c21e39b6d0800000000000000
+      internalID: -2974277828615329321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_46
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 246
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -39}
+        - {x: 11, y: -43}
+        - {x: 5, y: -46}
+        - {x: -2, y: -49}
+        - {x: -6, y: -50}
+        - {x: -15, y: -52}
+        - {x: -30, y: -54}
+        - {x: -54, y: -54}
+        - {x: -54, y: 42}
+        - {x: -50, y: 42}
+        - {x: -46, y: 44}
+        - {x: -45, y: 45}
+        - {x: -44, y: 46}
+        - {x: -43, y: 48}
+        - {x: -42, y: 51}
+        - {x: -42, y: 54}
+        - {x: 54, y: 54}
+        - {x: 54, y: 25}
+        - {x: 51, y: 10}
+        - {x: 50, y: 6}
+        - {x: 47, y: -3}
+        - {x: 41, y: -15}
+        - {x: 34, y: -25}
+        - {x: 28, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1d10939bda8bde0800000000000000
+      internalID: -1317111879968894498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_47
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 24
+        width: 102
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -48}
+        - {x: 39, y: -49}
+        - {x: 36, y: -50}
+        - {x: 35, y: -51}
+        - {x: 33, y: -55}
+        - {x: 30, y: -60}
+        - {x: 27, y: -64}
+        - {x: 25, y: -67}
+        - {x: 20, y: -72}
+        - {x: 15, y: -77}
+        - {x: 11, y: -80}
+        - {x: 3, y: -85}
+        - {x: -4, y: -88}
+        - {x: -11, y: -91}
+        - {x: -18, y: -93}
+        - {x: -22, y: -95}
+        - {x: -26, y: -97}
+        - {x: -37, y: -100}
+        - {x: -51, y: -102}
+        - {x: -51, y: -7}
+        - {x: -48, y: -6}
+        - {x: -45, y: -3}
+        - {x: -45, y: 3}
+        - {x: -48, y: 6}
+        - {x: -51, y: 6}
+        - {x: -51, y: 102}
+        - {x: -36, y: 100}
+        - {x: -29, y: 98}
+        - {x: -24, y: 96}
+        - {x: -18, y: 93}
+        - {x: -13, y: 92}
+        - {x: -8, y: 90}
+        - {x: -2, y: 87}
+        - {x: 3, y: 85}
+        - {x: 8, y: 82}
+        - {x: 11, y: 80}
+        - {x: 14, y: 78}
+        - {x: 16, y: 76}
+        - {x: 24, y: 68}
+        - {x: 26, y: 66}
+        - {x: 28, y: 63}
+        - {x: 30, y: 60}
+        - {x: 33, y: 55}
+        - {x: 36, y: 50}
+        - {x: 38, y: 49}
+        - {x: 42, y: 48}
+        - {x: 51, y: 48}
+        - {x: 51, y: -48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62397c195078f9b00800000000000000
+      internalID: 837536513704563494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_48
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 24
+        width: 102
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -101}
+        - {x: 33, y: -99}
+        - {x: 29, y: -98}
+        - {x: 24, y: -96}
+        - {x: 20, y: -94}
+        - {x: 18, y: -93}
+        - {x: 15, y: -92}
+        - {x: 11, y: -91}
+        - {x: 6, y: -89}
+        - {x: 2, y: -87}
+        - {x: -6, y: -83}
+        - {x: -9, y: -81}
+        - {x: -13, y: -78}
+        - {x: -16, y: -76}
+        - {x: -18, y: -74}
+        - {x: -26, y: -66}
+        - {x: -29, y: -61}
+        - {x: -32, y: -57}
+        - {x: -36, y: -50}
+        - {x: -38, y: -49}
+        - {x: -42, y: -48}
+        - {x: -51, y: -48}
+        - {x: -51, y: 48}
+        - {x: -42, y: 48}
+        - {x: -39, y: 49}
+        - {x: -36, y: 50}
+        - {x: -34, y: 54}
+        - {x: -32, y: 57}
+        - {x: -30, y: 60}
+        - {x: -28, y: 63}
+        - {x: -27, y: 65}
+        - {x: -24, y: 68}
+        - {x: -22, y: 70}
+        - {x: -19, y: 73}
+        - {x: -16, y: 76}
+        - {x: -12, y: 79}
+        - {x: -9, y: 81}
+        - {x: -6, y: 83}
+        - {x: -2, y: 85}
+        - {x: 0, y: 86}
+        - {x: 2, y: 87}
+        - {x: 5, y: 89}
+        - {x: 8, y: 90}
+        - {x: 11, y: 91}
+        - {x: 13, y: 92}
+        - {x: 18, y: 93}
+        - {x: 20, y: 94}
+        - {x: 26, y: 97}
+        - {x: 36, y: 100}
+        - {x: 51, y: 102}
+        - {x: 51, y: 6}
+        - {x: 48, y: 6}
+        - {x: 45, y: 3}
+        - {x: 45, y: -3}
+        - {x: 48, y: -6}
+        - {x: 51, y: -6}
+        - {x: 51, y: -102}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3d7c9b8e727d870800000000000000
+      internalID: 8707472285046920152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_49
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 24
+        width: 204
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: -51}
+        - {x: -48, y: -42}
+        - {x: -50, y: -36}
+        - {x: -54, y: -34}
+        - {x: -59, y: -31}
+        - {x: -65, y: -26}
+        - {x: -69, y: -23}
+        - {x: -73, y: -19}
+        - {x: -79, y: -12}
+        - {x: -84, y: -5}
+        - {x: -87, y: 1}
+        - {x: -89, y: 5}
+        - {x: -91, y: 11}
+        - {x: -93, y: 18}
+        - {x: -98, y: 29}
+        - {x: -100, y: 37}
+        - {x: -102, y: 46}
+        - {x: -102, y: 51}
+        - {x: -6, y: 51}
+        - {x: -6, y: 48}
+        - {x: -3, y: 45}
+        - {x: 3, y: 45}
+        - {x: 6, y: 48}
+        - {x: 6, y: 51}
+        - {x: 102, y: 51}
+        - {x: 102, y: 46}
+        - {x: 100, y: 36}
+        - {x: 98, y: 28}
+        - {x: 96, y: 24}
+        - {x: 94, y: 20}
+        - {x: 92, y: 15}
+        - {x: 89, y: 5}
+        - {x: 86, y: -1}
+        - {x: 84, y: -5}
+        - {x: 78, y: -14}
+        - {x: 72, y: -20}
+        - {x: 63, y: -28}
+        - {x: 50, y: -36}
+        - {x: 48, y: -42}
+        - {x: 48, y: -51}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca0e9dddae0c85a0800000000000000
+      internalID: -6517818420801697075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_50
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 204
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -51}
+        - {x: 6, y: -48}
+        - {x: 3, y: -45}
+        - {x: -3, y: -45}
+        - {x: -6, y: -48}
+        - {x: -6, y: -51}
+        - {x: -102, y: -51}
+        - {x: -102, y: -45}
+        - {x: -99, y: -32}
+        - {x: -96, y: -23}
+        - {x: -93, y: -18}
+        - {x: -91, y: -10}
+        - {x: -88, y: -3}
+        - {x: -85, y: 3}
+        - {x: -79, y: 12}
+        - {x: -77, y: 15}
+        - {x: -74, y: 18}
+        - {x: -67, y: 25}
+        - {x: -60, y: 30}
+        - {x: -57, y: 32}
+        - {x: -53, y: 34}
+        - {x: -50, y: 36}
+        - {x: -48, y: 42}
+        - {x: -48, y: 51}
+        - {x: 48, y: 51}
+        - {x: 48, y: 42}
+        - {x: 50, y: 36}
+        - {x: 55, y: 33}
+        - {x: 62, y: 29}
+        - {x: 68, y: 24}
+        - {x: 75, y: 17}
+        - {x: 80, y: 11}
+        - {x: 83, y: 6}
+        - {x: 87, y: -1}
+        - {x: 90, y: -8}
+        - {x: 92, y: -14}
+        - {x: 93, y: -18}
+        - {x: 95, y: -22}
+        - {x: 98, y: -28}
+        - {x: 100, y: -37}
+        - {x: 102, y: -45}
+        - {x: 102, y: -51}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b4c0ea2502e63b0800000000000000
+      internalID: -5517436954002830554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 300
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78, y: -78}
+        - {x: -78, y: -32}
+        - {x: -75, y: -19}
+        - {x: -73, y: -9}
+        - {x: -69, y: 2}
+        - {x: -64, y: 14}
+        - {x: -58, y: 24}
+        - {x: -53, y: 32}
+        - {x: -45, y: 41}
+        - {x: -40, y: 46}
+        - {x: -33, y: 52}
+        - {x: -26, y: 57}
+        - {x: -18, y: 62}
+        - {x: -12, y: 65}
+        - {x: -5, y: 68}
+        - {x: 2, y: 71}
+        - {x: 13, y: 74}
+        - {x: 33, y: 78}
+        - {x: 78, y: 78}
+        - {x: 78, y: -18}
+        - {x: 69, y: -18}
+        - {x: 65, y: -19}
+        - {x: 60, y: -20}
+        - {x: 55, y: -22}
+        - {x: 49, y: -25}
+        - {x: 42, y: -29}
+        - {x: 35, y: -35}
+        - {x: 29, y: -42}
+        - {x: 24, y: -50}
+        - {x: 21, y: -57}
+        - {x: 20, y: -60}
+        - {x: 18, y: -69}
+        - {x: 18, y: -78}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7c272cfa85fedb0800000000000000
+      internalID: -4760488769202501634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_52
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 300
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -78}
+        - {x: -18, y: -68}
+        - {x: -21, y: -57}
+        - {x: -25, y: -48}
+        - {x: -30, y: -41}
+        - {x: -36, y: -34}
+        - {x: -49, y: -25}
+        - {x: -54, y: -22}
+        - {x: -60, y: -20}
+        - {x: -68, y: -18}
+        - {x: -78, y: -18}
+        - {x: -78, y: 78}
+        - {x: -36, y: 78}
+        - {x: -22, y: 76}
+        - {x: -10, y: 73}
+        - {x: -3, y: 71}
+        - {x: 5, y: 68}
+        - {x: 13, y: 64}
+        - {x: 21, y: 60}
+        - {x: 30, y: 54}
+        - {x: 38, y: 48}
+        - {x: 43, y: 43}
+        - {x: 48, y: 38}
+        - {x: 53, y: 31}
+        - {x: 60, y: 21}
+        - {x: 64, y: 14}
+        - {x: 69, y: 2}
+        - {x: 73, y: -10}
+        - {x: 76, y: -23}
+        - {x: 78, y: -35}
+        - {x: 78, y: -78}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffca157c6573ef40800000000000000
+      internalID: 5756573857391235058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_53
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 138
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -78}
+        - {x: 14, y: -74}
+        - {x: 3, y: -71}
+        - {x: -11, y: -65}
+        - {x: -19, y: -61}
+        - {x: -29, y: -55}
+        - {x: -41, y: -45}
+        - {x: -49, y: -36}
+        - {x: -57, y: -25}
+        - {x: -64, y: -14}
+        - {x: -69, y: -2}
+        - {x: -73, y: 10}
+        - {x: -76, y: 24}
+        - {x: -78, y: 33}
+        - {x: -78, y: 78}
+        - {x: 18, y: 78}
+        - {x: 18, y: 69}
+        - {x: 21, y: 58}
+        - {x: 26, y: 47}
+        - {x: 29, y: 42}
+        - {x: 35, y: 35}
+        - {x: 45, y: 27}
+        - {x: 51, y: 24}
+        - {x: 64, y: 19}
+        - {x: 69, y: 18}
+        - {x: 78, y: 18}
+        - {x: 78, y: -78}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c860173f6a4f4f0800000000000000
+      internalID: -795827669634216870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_54
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 138
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 36}
+        - {x: 75, y: 19}
+        - {x: 73, y: 11}
+        - {x: 70, y: 1}
+        - {x: 67, y: -7}
+        - {x: 64, y: -13}
+        - {x: 58, y: -24}
+        - {x: 48, y: -38}
+        - {x: 36, y: -49}
+        - {x: 30, y: -54}
+        - {x: 22, y: -59}
+        - {x: 9, y: -66}
+        - {x: 2, y: -69}
+        - {x: -7, y: -72}
+        - {x: -20, y: -75}
+        - {x: -37, y: -78}
+        - {x: -78, y: -78}
+        - {x: -78, y: 18}
+        - {x: -69, y: 18}
+        - {x: -55, y: 22}
+        - {x: -45, y: 27}
+        - {x: -36, y: 34}
+        - {x: -29, y: 42}
+        - {x: -26, y: 47}
+        - {x: -21, y: 57}
+        - {x: -20, y: 61}
+        - {x: -18, y: 69}
+        - {x: -18, y: 78}
+        - {x: 78, y: 78}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26fbdbe0df8f7750800000000000000
+      internalID: 6304916130815014446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 883
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b5afdffc46328e0800000000000000
+      internalID: -1719419788243346649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_56
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 883
+        width: 32
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98785dcafac665ed0800000000000000
+      internalID: -2425631847517681783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D Road_57
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 764
+        width: 144
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675592842b9938160800000000000000
+      internalID: 7026628834622002550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

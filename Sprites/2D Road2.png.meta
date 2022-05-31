@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: d4804ba2f9ea122499faa5b04b8c7a69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6940408721921517288
+    second: png-transparent-road-sprite-asphalt-concrete-road-game-angle-transport_1
+  - first:
+      213: 2531998008674339749
+    second: png-transparent-road-sprite-asphalt-concrete-road-game-angle-transport_2
+  - first:
+      213: 2185026535804719235
+    second: png-transparent-road-sprite-asphalt-concrete-road-game-angle-transport_3
+  - first:
+      213: 754193288228431246
+    second: png-transparent-road-sprite-asphalt-concrete-road-game-angle-transport_4
+  - first:
+      213: 1704097274130509530
+    second: png-transparent-road-sprite-asphalt-concrete-road-game-angle-transport_5
+  - first:
+      213: -7286375051343349799
+    second: png-transparent-road-sprite-asphalt-concrete-road-game-angle-transport_6
+  - first:
+      213: 3484431913286178431
+    second: 2D Road2_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-transparent-road-sprite-asphalt-concrete-road-game-angle-transport_0
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 842
+        width: 275
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6f94b282b6b7250800000000000000
+      internalID: 5943461953514632901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-road-sprite-asphalt-concrete-road-game-angle-transport_1
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 589
+        width: 231
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.5, y: -180.5}
+        - {x: -72.5, y: -94.5}
+        - {x: -115.5, y: -94.5}
+        - {x: -115.5, y: 94.5}
+        - {x: -72.5, y: 94.5}
+        - {x: -72.5, y: 180.5}
+        - {x: 115.5, y: 180.5}
+        - {x: 115.5, y: -180.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81958dd0a07beaf90800000000000000
+      internalID: -6940408721921517288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-road-sprite-asphalt-concrete-road-game-angle-transport_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 636
+        width: 189
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abc70716c6732320800000000000000
+      internalID: 2531998008674339749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-road-sprite-asphalt-concrete-road-game-angle-transport_3
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 436
+        width: 275
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: -180}
+        - {x: -93.5, y: -94}
+        - {x: -137.5, y: -95}
+        - {x: -137.5, y: 95}
+        - {x: -94.5, y: 95}
+        - {x: -94.5, y: 180}
+        - {x: 95.5, y: 180}
+        - {x: 95.5, y: 95}
+        - {x: 137.5, y: 95}
+        - {x: 137.5, y: -95}
+        - {x: 95.5, y: -95}
+        - {x: 95.5, y: -180}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380517bbe06c25e10800000000000000
+      internalID: 2185026535804719235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-road-sprite-asphalt-concrete-road-game-angle-transport_4
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 56
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94.5, y: -137.5}
+        - {x: -94.5, y: -51.5}
+        - {x: -137.5, y: -51.5}
+        - {x: -137.5, y: 137.5}
+        - {x: 137.5, y: 137.5}
+        - {x: 137.5, y: -51.5}
+        - {x: 94.5, y: -51.5}
+        - {x: 94.5, y: -137.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85e6dcbcce677a00800000000000000
+      internalID: 754193288228431246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-road-sprite-asphalt-concrete-road-game-angle-transport_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 245
+        width: 231
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.5, y: -105.5}
+        - {x: 80.5, y: -118.5}
+        - {x: 72.5, y: -124.5}
+        - {x: 62.5, y: -129.5}
+        - {x: 51.5, y: -133.5}
+        - {x: 40.5, y: -137.5}
+        - {x: -115.5, y: -137.5}
+        - {x: -115.5, y: 51.5}
+        - {x: -73.5, y: 51.5}
+        - {x: -73.5, y: 137.5}
+        - {x: 115.5, y: 137.5}
+        - {x: 115.5, y: -53.5}
+        - {x: 110.5, y: -72.5}
+        - {x: 107.5, y: -81.5}
+        - {x: 102.5, y: -91.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adea24f217b26a710800000000000000
+      internalID: 1704097274130509530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-road-sprite-asphalt-concrete-road-game-angle-transport_6
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 194
+        width: 231
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: -136.5}
+        - {x: -73.5, y: -50.5}
+        - {x: -115.5, y: -50.5}
+        - {x: -115.5, y: 136.5}
+        - {x: 49.5, y: 136.5}
+        - {x: 66.5, y: 129.5}
+        - {x: 75.5, y: 123.5}
+        - {x: 81.5, y: 118.5}
+        - {x: 88.5, y: 111.5}
+        - {x: 94.5, y: 104.5}
+        - {x: 99.5, y: 97.5}
+        - {x: 107.5, y: 83.5}
+        - {x: 110.5, y: 74.5}
+        - {x: 115.5, y: 57.5}
+        - {x: 115.5, y: -136.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d73964ee7891ea90800000000000000
+      internalID: -7286375051343349799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
