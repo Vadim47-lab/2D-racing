@@ -8,6 +8,6 @@ public class Follow : MonoBehaviour
 
     private void LateUpdate()
     {
-        _selfTransform.position = _target.position + new Vector3(0, 0, -10);
+        _selfTransform.position = Vector3.Lerp(_selfTransform.position, _target.position + new Vector3(0, 0, -10), 0.2f);
     }
 }
